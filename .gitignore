@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore TypeScript build directory
+dist/
+
+# Ignore upload directory
+uploads/
+
+# Ignore IDE and editor specific files
+.idea/
+.vscode/
